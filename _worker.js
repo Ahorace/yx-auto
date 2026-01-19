@@ -11,20 +11,21 @@ let egi = true;  // 启用GitHub优选
 let ev = true;   // 启用VLESS协议
 let et = false;  // 启用Trojan协议
 let vm = false;  // 启用VMess协议
-let scu = 'https://url.v1.mk/sub';  // 订阅转换地址
+let scu = 'https://api.5678.us.to/sub';  // 订阅转换地址
 
 // 默认优选域名列表
 const directDomains = [
     { name: "cloudflare.182682.xyz", domain: "cloudflare.182682.xyz" },
     { domain: "freeyx.cloudflare88.eu.org" },
-    { domain: "bestcf.top" },
+    { domain: "www.wto.org" },
     { domain: "cdn.2020111.xyz" },
     { domain: "cf.0sm.com" },
-    { domain: "cf.090227.xyz" },
+    { domain: "cfip.xxxxxxxx.tk" },
     { domain: "cf.zhetengsha.eu.org" },
     { domain: "cfip.1323123.xyz" },
     { domain: "cloudflare-ip.mofashi.ltd" },
-    { domain: "cf.877771.xyz" },
+    { domain: "cf.877774.xyz" },
+    { domain: "palera.in" },
     { domain: "xn--b6gac.eu.org" }
 ];
 
