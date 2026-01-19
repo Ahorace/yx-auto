@@ -121,7 +121,7 @@ async function 整理成数组(内容) {
 }
 
 // 请求优选API
-async function 请求优选API(urls, 默认端口 = '443', 超时时间 = 3000) {
+async function 请求优选API(urls, 默认端口 = '8443', 超时时间 = 3000) {
     if (!urls?.length) return [];
     const results = new Set();
     await Promise.allSettled(urls.map(async (url) => {
