@@ -9,8 +9,8 @@ let epd = true;  // 启用优选域名
 let epi = true;  // 启用优选IP
 let egi = true;  // 启用GitHub优选
 let ev = true;   // 启用VLESS协议
-let et = false;  // 启用Trojan协议
-let vm = false;  // 启用VMess协议
+let et = true;  // 启用Trojan协议
+let vm = true;  // 启用VMess协议
 let scu = 'https://api.5678.us.to/sub';  // 订阅转换地址
 
 // 默认优选域名列表
