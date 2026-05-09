@@ -21,8 +21,6 @@ let customECHDomain = 'cloudflare-ech.com';
 const directDomains = [
     { name: "cloudflare.182682.xyz", domain: "cloudflare.182682.xyz" },
     { domain: "freeyx.cloudflare88.eu.org" },
-    { domain: "bestcf.top" },
-    { domain: "cdn.2020111.xyz" },
     { domain: "cf.0sm.com" },
     { domain: "cf.090227.xyz" },
     { domain: "cf.zhetengsha.eu.org" },
@@ -35,7 +33,6 @@ const directDomains = [
     { domain: "fbi.gov" },
     { domain: "www.wto.org" },
     { domain: "time.is" },
-    { domain: "bestcf.onecf.eu.org" },
     { domain: "xn--b6gac.eu.org" }
 ];
 
